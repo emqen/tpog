@@ -1,3 +1,3 @@
-<img src= "my_logo.png"/>
+<img src= "mbalogo.png"/>
 # mba
 Molecule builder agent for Open AI Universe
