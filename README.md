@@ -1,5 +1,5 @@
-<img src= "a4u_icon.png"/>
-#Agents of Universe
+<img src= "a4u_icon.png"/><br>
+Agents for <a href ="https://github.com/openai/universe">Open AI Universe.</a>
 Using<a href="https://github.com/tensorflow/tensorflow"> TensorFlow</a>.
 <br>_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_</br>
 <img src= "mba_icon.png"/>
