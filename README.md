@@ -1,6 +1,5 @@
-#Agents of Universe
-Agents for <a href ="https://github.com/openai/universe">OpenAI Universe.</a>
-Using <a href="https://keras.io/">Keras</a> with <a href="https://github.com/tensorflow/tensorflow"> TensorFlow.</a>
+# (OpenAI) Universe Agent
+Using<a href="https://github.com/tensorflow/tensorflow"> TensorFlow.</a>
 <br>_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_</br>
 <img src= "/img/a4u_icon.png"/><br>
 # chi3f
