@@ -1,11 +1,13 @@
 <html>
-<body>
+<head>
+<title>tpog</title>
 <style>
 body {
   font-family: monospace;
-  width: 400px;
+  width: 600px;
 }
 </style>
+</head>
 <body>
 <img src= "/img/kb_icon.png"/> <b> librarian <b/> <br>
 <img src= "/img/a4u_icon.png"/> <b> universal <b/> <br>
