@@ -3,6 +3,9 @@
 <img src= "/img/kb_icon.png"/> <b> librarian <b/> <br>
 <p>From information to answers</p>
 
+<img src= "/img/avid_icon.png"/> <b> avid <b/> <br>
+<p>game time</p>
+
 <img src= "/img/a4u_icon.png"/> <b> universal <b/> <br>
 <p>Learning and moving along </p>
 
