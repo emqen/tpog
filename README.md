@@ -10,7 +10,7 @@
 <p>Building the building blocks </p>
 
 <img src= "/img/gpa_icon.png"/> <b> flow shell <b/> <br>
-<p>No end for automation </p>
+<p>One step of easiness </p>
 
 
 <b>scratcher</b>
