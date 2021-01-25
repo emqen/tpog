@@ -1,3 +1,7 @@
+👉 I may finish this someday.
+meanwhile, feel free to steal this repo;
+if it makes any sense :)
+
 # stant
 
 <img src= "/img/kb_icon.png"/> <b> librarian <b/> <br>
