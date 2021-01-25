@@ -1,5 +1,4 @@
-👉 I may finish this someday.
-meanwhile, feel free to steal this repo;
+👉  feel free to steal this repo;
 if it makes any sense :)
 
 # stant
