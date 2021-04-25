@@ -1,7 +1,7 @@
 👉  feel free to steal this repo;
 if it makes any sense :)
 
-# bot
+# built A bot
 
 <img src= "/img/kb_icon.png"/> <b> librarian <b/> <br>
 <p>From information to answers</p>
